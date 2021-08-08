@@ -24,7 +24,7 @@ function App() {
         <input type="checkbox" id=""/>
         Cooking task manger
         </label>
-        <button>Edit</button>
+        <button >Edit</button>
       </li>
     </ul>
 
