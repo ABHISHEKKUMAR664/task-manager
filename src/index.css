@@ -12,13 +12,12 @@ code {
     monospace;
 }
 .App{
-  max-width: 500px;
+  max-width: 400px;
   width: 100%;
   min-height: 400px;
   box-shadow: 0 2px 6px #555;
   margin: 50px;
   padding: 50px;
-
 }
 h1{
   text-align: center;
@@ -32,6 +31,7 @@ form{
   height: 40px;
   margin: 20px 0;
   display: flex;
+  
 }
 form input,
 form button{
@@ -88,5 +88,6 @@ label{
 @media(max-width:400px){
   .App{
     padding: 10px;
+   
   }
 }
